@@ -1,0 +1,51 @@
+C:\Users\portatil\source\repos\IPSUniversitaria\IPSUniversitaria\bin\Debug\IPSUniversitaria.exe.config
+C:\Users\portatil\source\repos\IPSUniversitaria\IPSUniversitaria\bin\Debug\IPSUniversitaria.exe
+C:\Users\portatil\source\repos\IPSUniversitaria\IPSUniversitaria\bin\Debug\IPSUniversitaria.pdb
+C:\Users\portatil\source\repos\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.csprojAssemblyReference.cache
+C:\Users\portatil\source\repos\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.Form1.resources
+C:\Users\portatil\source\repos\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.Properties.Resources.resources
+C:\Users\portatil\source\repos\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.csproj.GenerateResource.cache
+C:\Users\portatil\source\repos\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.csproj.CoreCompileInputs.cache
+C:\Users\portatil\source\repos\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.exe
+C:\Users\portatil\source\repos\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.pdb
+C:\Users\portatil\Desktop\SOFTWARE 2\IPSUniversitaria\IPSUniversitaria\bin\Debug\IPSUniversitaria.exe.config
+C:\Users\portatil\Desktop\SOFTWARE 2\IPSUniversitaria\IPSUniversitaria\bin\Debug\IPSUniversitaria.exe
+C:\Users\portatil\Desktop\SOFTWARE 2\IPSUniversitaria\IPSUniversitaria\bin\Debug\IPSUniversitaria.pdb
+C:\Users\portatil\Desktop\SOFTWARE 2\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.csprojAssemblyReference.cache
+C:\Users\portatil\Desktop\SOFTWARE 2\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.IPSU.resources
+C:\Users\portatil\Desktop\SOFTWARE 2\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.Properties.Resources.resources
+C:\Users\portatil\Desktop\SOFTWARE 2\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.csproj.GenerateResource.cache
+C:\Users\portatil\Desktop\SOFTWARE 2\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.csproj.CoreCompileInputs.cache
+C:\Users\portatil\Desktop\SOFTWARE 2\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.exe
+C:\Users\portatil\Desktop\SOFTWARE 2\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.pdb
+C:\Users\portatil\Desktop\SOFTWARE 2\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.Medicamento.resources
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180607T141319Z-001\IPSUniversitaria\IPSUniversitaria\bin\Debug\IPSUniversitaria.exe.config
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180607T141319Z-001\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.exe
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180607T141319Z-001\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.pdb
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180607T141319Z-001\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180607T141319Z-001\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.IPSU.resources
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180607T141319Z-001\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.Medicamento.resources
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180607T141319Z-001\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.Properties.Resources.resources
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180607T141319Z-001\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.csproj.GenerateResource.Cache
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180607T141319Z-001\IPSUniversitaria\IPSUniversitaria\bin\Debug\IPSUniversitaria.exe
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180607T141319Z-001\IPSUniversitaria\IPSUniversitaria\bin\Debug\IPSUniversitaria.pdb
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180607T141319Z-001\IPSUniversitaria\IPSUniversitaria\bin\Debug\EntityFramework.dll
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180607T141319Z-001\IPSUniversitaria\IPSUniversitaria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180607T141319Z-001\IPSUniversitaria\IPSUniversitaria\bin\Debug\EntityFramework.xml
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180607T141319Z-001\IPSUniversitaria\IPSUniversitaria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180607T141319Z-001\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.ListadoPacientes.resources
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180608T173527Z-001\IPSUniversitaria\IPSUniversitaria\bin\Debug\IPSUniversitaria.exe.config
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180608T173527Z-001\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.exe
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180608T173527Z-001\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180608T173527Z-001\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.IPSU.resources
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180608T173527Z-001\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.ListadoPacientes.resources
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180608T173527Z-001\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.Medicamento.resources
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180608T173527Z-001\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.Properties.Resources.resources
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180608T173527Z-001\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.csproj.GenerateResource.Cache
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180608T173527Z-001\IPSUniversitaria\IPSUniversitaria\bin\Debug\IPSUniversitaria.exe
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180608T173527Z-001\IPSUniversitaria\IPSUniversitaria\bin\Debug\IPSUniversitaria.pdb
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180608T173527Z-001\IPSUniversitaria\IPSUniversitaria\bin\Debug\EntityFramework.dll
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180608T173527Z-001\IPSUniversitaria\IPSUniversitaria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180608T173527Z-001\IPSUniversitaria\IPSUniversitaria\bin\Debug\EntityFramework.xml
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180608T173527Z-001\IPSUniversitaria\IPSUniversitaria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Estudiante\Downloads\IPSUniversitaria-20180608T173527Z-001\IPSUniversitaria\IPSUniversitaria\obj\Debug\IPSUniversitaria.pdb
